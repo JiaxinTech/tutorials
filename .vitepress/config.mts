@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/tutorials/',
   title: "JiaxinTechLife",
   description: "加薪科技改变生活",
   themeConfig: {
