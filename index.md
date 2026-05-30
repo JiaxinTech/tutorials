@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: 🚀 开始阅读教程
-      link: /posts/markdown-examples
+      link: /posts/agent/codex-install
     - theme: alt
       text: 📺 前往视频栏目
       link: https://www.youtube.com/@JiaxinTechLife
