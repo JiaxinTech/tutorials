@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: 🚀 开始阅读教程
-      link: /posts/agent/codex-install
+      link: /posts/vps/google-cloud-vpn
     - theme: alt
       text: 📺 前往视频栏目
       link: https://www.youtube.com/@JiaxinTechLife
