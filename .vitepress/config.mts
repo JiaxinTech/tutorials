@@ -12,6 +12,15 @@ export default defineConfig({
       prev: '上一篇',
       next: '下一篇'
     },
+    // 配置右侧大纲
+    outline: {
+      // 提取哪些层级的标题。可选值：number | [number, number] | 'deep'
+      // 默认值为 2（只提取 h2）
+      level: [2, 3], // 这里配置提取 h2 到 h3 的标题
+      
+      // 自定义大纲顶部显示的标题，默认为 "On this page"
+      label: '本页目录' 
+    },
     nav: [{ text: "首页", link: "/" }],
     // 左侧侧边栏
     sidebar: [
@@ -25,7 +34,7 @@ export default defineConfig({
         ],
       },
       {
-        text: "软件推荐",
+        text: "软件",
         collapsed: false,
         items: [
           { text: "语言转字幕", link: "/posts/app/ai-asr" },
@@ -35,10 +44,17 @@ export default defineConfig({
         text: "AI Agent",
         collapsed: false,
         items: [
-          { text: "Codex+Ollama，免费本地AI", link: "/posts/agent/codex-ollama" },
-          { text: "零基础Codex全流程入门指南", link: "/posts/agent/codex-install" },
           { text: "Hermes Agent小白入门指南", link: "/posts/agent/hermes-install" },
           { text: "白嫖gemini pro 12个月 pixel认证", link: "/posts/agent/gemini-pro-pixel" },
+        ],
+      },
+      {
+        text: "codex",
+        collapsed: false,
+        items: [
+          { text: "零基础Codex全流程入门指南", link: "/posts/codex/codex-install" },
+          { text: "Codex+Ollama，免费本地AI", link: "/posts/codex/codex-ollama" },
+          { text: "Codex桌面端 实战", link: "/posts/codex/codex-app" },
         ],
       }
     ],
