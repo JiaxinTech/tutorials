@@ -17,9 +17,9 @@ export default defineConfig({
       // 提取哪些层级的标题。可选值：number | [number, number] | 'deep'
       // 默认值为 2（只提取 h2）
       level: [2, 3], // 这里配置提取 h2 到 h3 的标题
-      
+
       // 自定义大纲顶部显示的标题，默认为 "On this page"
-      label: '本页目录' 
+      label: '本页目录'
     },
     nav: [{ text: "首页", link: "/" }],
     // 左侧侧边栏
@@ -31,6 +31,7 @@ export default defineConfig({
           { text: "谷歌云搭建免费科学上网", link: "/posts/vps/google-cloud-vpn" },
           { text: "免费域名", link: "/posts/vps/free-domain" },
           { text: "免费域名第二期", link: "/posts/vps/free-domain-two" },
+          { text: "零基础VPS搭建节点（五合一协议）", link: "/posts/vps/vps-buils" },
         ],
       },
       {
