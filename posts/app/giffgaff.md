@@ -1,4 +1,6 @@
 
+# 海外保号神卡 英国电话卡 Giffgaff，完美注册海外各种AI应用，通过Codex验证
+---
 # giffgaff 官网
 [点击进入](https://www.giffgaff.com/)
 
