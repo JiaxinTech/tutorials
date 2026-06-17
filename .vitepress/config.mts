@@ -39,6 +39,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: "语言转字幕", link: "/posts/app/ai-asr" },
+          { text: "英国手机卡giffgaff", link: "/posts/app/giffgaff" },
         ],
       },
       {
