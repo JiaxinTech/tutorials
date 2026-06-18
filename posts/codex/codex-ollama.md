@@ -1,4 +1,8 @@
-# 最新Codex零成本使用教程，不花钱也能用 AI？Codex + Ollama 本地部署入门指南
+---
+order: 2
+---
+[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260618165548640.webp)](https://youtu.be/D2rk0i0i60o)
+# [最新Codex零成本使用教程，不花钱也能用 AI？Codex + Ollama 本地部署入门指南](https://youtu.be/D2rk0i0i60o)
 
 ---
 ### 确认自己的电脑适合哪个模型：[点击进入](https://www.canirun.ai/)
@@ -102,8 +106,3 @@ export OLLAMA_KEEP_ALIVE=0
 #同一个模型同时能处理多少个请求
 export OLLAMA_NUM_PARALLEL=1
 ```
----
-
-# 本期视频详细教程 [点击进入](https://youtu.be/D2rk0i0i60o)
-
-[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260530224344166.webp)](https://youtu.be/D2rk0i0i60o)

@@ -1,5 +1,11 @@
-# 教你零元白嫖 12个月谷歌顶级 AI，全流程手把手教学｜羊毛党的福音｜Google Gemini Pro会员拿到手软 | 非学生认证，不看亏大了
+---
+order: 1
+---
+[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260618164833730.webp)](https://www.youtube.com/watch?v=Rl2NHI-s52E)
+# [教你零元白嫖 12个月谷歌顶级 AI，全流程手把手教学｜羊毛党的福音｜Google Gemini Pro会员拿到手软 | 非学生认证，不看亏大了](https://www.youtube.com/watch?v=Rl2NHI-s52E)
 
+
+---
 ## 最新pixel自助机器人规则
 
 （只是比视频中多了一步兑换卡密的步骤，其他都一样）
@@ -22,7 +28,7 @@
 - 查询历史订单命令：`/orders 邮箱或卡密`
 
 4、后续步骤跟着视频操作即可
-[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260530215536550.webp)](https://youtu.be/Rl2NHI-s52E)
+[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260618164833730.webp)](https://youtu.be/Rl2NHI-s52E)
 
 
 ## 相关链接
@@ -155,7 +161,4 @@
 - 查询状态时，尽量使用提交任务时对应的邮箱或卡密。
 - 收到订单成功和返回链接后，再继续下一步操作。
 
----
 
-# 本期视频详细教程 [点击进入](https://www.youtube.com/watch?v=Rl2NHI-s52E)
-[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260530225437665.webp)](https://www.youtube.com/watch?v=Rl2NHI-s52E)

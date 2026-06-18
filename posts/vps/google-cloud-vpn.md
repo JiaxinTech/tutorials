@@ -1,5 +1,9 @@
+---
+order: 3
+---
+[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260618170042160.webp)](https://www.youtube.com/watch?v=b7jLgNNOEZs)
+# [谷歌云永久免费服务器保姆级教程：从注册到搭建科学上网节点|永久“白嫖”谷歌云服务器 | 创建永久免费VPS、搭建科学上网  | 每月200G流量](https://www.youtube.com/watch?v=b7jLgNNOEZs)
 
-# 谷歌云永久免费服务器保姆级教程：从注册到搭建科学上网节点|永久“白嫖”谷歌云服务器 | 创建永久免费VPS、搭建科学上网  | 每月200G流量
 ---
 
 # 一、文档链接
@@ -34,9 +38,3 @@
 | 网络 | 勾选允许HTTP流量和允许HTTPS流量 |
 | IPv4地址 | 临时 |
 | 网络服务层级 | **标准** |
-
----
-
-# 本期视频详细教程 [点击进入](https://www.youtube.com/watch?v=b7jLgNNOEZs)
-
-[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260530224939031.webp)](https://www.youtube.com/watch?v=b7jLgNNOEZs)

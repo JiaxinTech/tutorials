@@ -1,4 +1,9 @@
-# 语音转文字，免费ASR工具让你3分钟实现字幕自由｜本地部署vs云端AI，哪个ASR更适合你？｜剪辑速度提升10倍的秘密武器｜零成本实现专业级字幕制作全流程
+---
+order: 1
+---
+[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260618164253933.webp)](https://www.youtube.com/watch?v=2RCjRmfvm68)
+# [语音转文字，免费ASR工具让你3分钟实现字幕自由｜本地部署vs云端AI，哪个ASR更适合你？｜剪辑速度提升10倍的秘密武器｜零成本实现专业级字幕制作全流程](https://www.youtube.com/watch?v=2RCjRmfvm68)
+
 ---
 
 # 本地版：
@@ -188,7 +193,3 @@ Google Al Studio：[点击进入](https://aistudio.google.com/)
 *   **[  ] 检查点4：** 结构完整性。每条字幕是否都由“序号-时间轴-文本-空行”这4行构成？
 *   **[  ] 检查点5：** 专有名词确认。我是否已将转录稿中出现的所有不确定、容易听错的词语，以及所有专有名词（包括但不限于：人名、地名、组织机构名、作品名、英文缩写、品牌名和技术词汇等）都纳入了【阶段1】的待确认列表，并根据用户的最终确认进行了修改？
 ```
----
-
-# 本期视频详细教程 [点击进入](https://www.youtube.com/watch?v=2RCjRmfvm68)
-[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260530225210736.webp)](https://www.youtube.com/watch?v=2RCjRmfvm68)

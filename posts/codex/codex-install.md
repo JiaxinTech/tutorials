@@ -1,4 +1,9 @@
-# 全网最全Codex零门槛入门教程｜保姆级｜全模式安装配置+无缝切国内大模型｜不懂代码也能用AI做独立开发｜0代码开发超级马里奥小游戏｜不用魔法，国内也能直接用
+---
+order: 1
+---
+[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260618165400809.webp)](https://www.youtube.com/watch?v=Lgzy2qiNve8)
+# [全网最全Codex零门槛入门教程｜保姆级｜全模式安装配置+无缝切国内大模型｜不懂代码也能用AI做独立开发｜0代码开发超级马里奥小游戏｜不用魔法，国内也能直接用](https://www.youtube.com/watch?v=Lgzy2qiNve8)
+
 
 ---
 # 官方文档：
@@ -378,8 +383,3 @@ npm install -g @openai/codex
 # 检查 npm 全局路径
 npm config get prefix
 ```
-
----
-
-# 本期视频详细教程 [点击进入](https://www.youtube.com/watch?v=Lgzy2qiNve8)
-[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260530225812207.webp)](https://www.youtube.com/watch?v=Lgzy2qiNve8)

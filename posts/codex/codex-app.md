@@ -1,3 +1,10 @@
+---
+order: 3
+---
+[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260618170431874.webp)](https://www.youtube.com/watch?v=3yeTUUVQclE)
+# [Codex APP“0基础“保姆级全攻略：从入门到进阶，自动生成內容、网页、视频和ppt等海量实战教程，一期精通Codex](https://www.youtube.com/watch?v=3yeTUUVQclE)
+
+---
 ## 自定义全局误删md
 
 ```bash

@@ -1,5 +1,9 @@
+---
+order: 1
+---
+[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260618165751846.webp)](https://youtu.be/XxYc0GlbHWo?si=B42kBmpVT3JjBgWE)
+# [2026最新 | 永久免費域名 | digitalplat域名 | 无门槛 支持托管到Cloudflare，白嫖黨必看](https://youtu.be/XxYc0GlbHWo?si=B42kBmpVT3JjBgWE)
 
-# 2026最新 | 永久免費域名 | digitalplat域名 | 无门槛 支持托管到Cloudflare，白嫖黨必看
 ---
 ### 1、相关链接
 
@@ -34,9 +38,3 @@ us.kg和xx.kg域名不占用免费域名额度
 ### 4、续期：
 
 永久免费，每年续期一次，到期前120天内可续期。
-
----
-
-# 本期视频详细教程 [点击进入](https://youtu.be/XxYc0GlbHWo?si=B42kBmpVT3JjBgWE)
-
-[![永久免费域名](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260530211622054.png)](https://youtu.be/XxYc0GlbHWo?si=B42kBmpVT3JjBgWE)

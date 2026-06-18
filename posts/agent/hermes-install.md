@@ -1,4 +1,8 @@
-# 超越 OpenClaw！手把手教你搭建Hermes Agent 部署全攻略｜手把手教你搭建AI只能助手，24小时不闭眼帮你干杂活
+---
+order: 2
+---
+[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260618165211583.webp)](https://www.youtube.com/watch?v=jobEOvaPxTI)
+# [超越 OpenClaw！手把手教你搭建Hermes Agent 部署全攻略｜手把手教你搭建AI只能助手，24小时不闭眼帮你干杂活](https://www.youtube.com/watch?v=jobEOvaPxTI)
 
 ---
 # 官方链接
@@ -227,7 +231,3 @@ source ~/.zshrc
 
 原因：键盘不兼容引起的，按`ctrl + del`就可以删除了
 
----
-
-# 本期视频详细教程 [点击进入](https://www.youtube.com/watch?v=jobEOvaPxTI)
-[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260530225516090.webp)](https://www.youtube.com/watch?v=jobEOvaPxTI)

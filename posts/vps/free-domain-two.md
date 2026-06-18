@@ -1,4 +1,8 @@
-# 薅到手软！免费域名额度直接给12个？不仅管饱还能“无限续杯”，Cloudflare托管全过程！
+---
+order: 2
+---
+[![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260618165847406.webp)](https://youtu.be/XxYc0GlbHWo?si=B42kBmpVT3JjBgWE)
+# [薅到手软！免费域名额度直接给12个？不仅管饱还能“无限续杯”，Cloudflare托管全过程！](https://youtu.be/XxYc0GlbHWo?si=B42kBmpVT3JjBgWE)
 
 ---
 ### 加薪的助力码
@@ -57,8 +61,3 @@ D2PNYB37E5
 
 [![](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260530223933347.webp)](https://www.youtube.com/watch?v=lV4Ar_dJh4E)
 
----
-
-# 永久免费域名 可以看我这期视频 [点击进入](https://youtu.be/XxYc0GlbHWo?si=B42kBmpVT3JjBgWE)
-
-[![永久免费域名](https://cdn.jsdelivr.net/gh/JiaxinTech/tutorials-static@main/posts/20260530211622054.png)](https://youtu.be/XxYc0GlbHWo?si=B42kBmpVT3JjBgWE)
