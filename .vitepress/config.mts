@@ -42,6 +42,7 @@ const sidebar: SidebarItem[] = [
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/tutorials/",
+  appearance: "dark",
   lang: "zh",
   title: "@JiaxinTechLife",
   description: "加薪科技改变生活",
@@ -66,12 +67,14 @@ export default defineConfig({
     }
   },
   themeConfig: {
+    sidebarMenuLabel: "目录",
+    returnToTopLabel: "回到顶部",
     docFooter: {
       prev: "上一篇",
       next: "下一篇",
     },
     outline: {
-      level: [2, 3],
+      level: [1, 3],
       label: "本页目录",
     },
     nav: [{ text: "首页", link: "/" }],
